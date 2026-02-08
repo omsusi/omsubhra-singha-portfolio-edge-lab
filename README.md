@@ -7,7 +7,7 @@
 ## 🌐 Connectivity & Signal Routing
 
 * **Primary Engine (Edge):** [omsubhra-singha.pages.dev](https://omsubhra-singha.pages.dev)
-* **LinkedIn Proxy Node:** [https://github.com/omsusi/portfolio-bridge](https://github.com/omsusi/portfolio-bridge)
+* **LinkedIn Proxy Node:** [https://omsusi.github.io/portfolio-bridge](https://omsusi.github.io/portfolio-bridge)
 
 ### 🔗 Social Handshake Optimization
 
