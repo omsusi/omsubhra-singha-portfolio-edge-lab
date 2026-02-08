@@ -94,6 +94,32 @@ This laboratory is designed with a **Privacy-First Telemetry Architecture**.
 
 ---
 
-**Architected for Performance. Engineered for the Edge.**
+## 🛠️ Engineering Services & Custom Development
+
+While this laboratory serves as my personal technical portfolio, the underlying **Core-Lab Architecture** is a highly maintainable and modular framework designed for rapid deployment.
+
+### 💼 Portfolio Customization
+
+If you are interested in a high-performance, edge-optimized portfolio based on this template or a bespoke design tailored to your professional identity, I am available for customization.
+
+* **Resume-as-Code Migration**: Seamlessly porting your existing professional history into a modular, high-performance web system.
+* **Protocol Implementation**: Customizing theme states (Sub-Zero, Overdrive, Emergency) to match your personal branding.
+* **Edge Deployment**: Full setup of Cloudflare Pages, Upstash Redis telemetry, and technical domain routing.
+
+### 💻 Custom Software Solutions
+
+Beyond portfolio systems, I am open to discussing and developing **Custom Software Solutions** specifically focused on:
+
+* **Embedded Systems & Hardware Integration**: Leveraging my ECE background for IoT and hardware-software handshakes.
+* **AI-Orchestrated Workflows**: Developing automation tools and LLM-integrated systems.
+* **High-Performance Web Architectures**: Building lightweight, SVG-native, and Edge-optimized web applications.
+
+### 🛰️ Contact the Lab
+
+For inquiries regarding professional collaborations, custom software projects, or template licensing, please reach out via:
+
+* **LinkedIn**: [Omsubhra Singha](https://www.linkedin.com/in/omsubhra-singha-30447a254)
+* **Email**: [omsubhrasingha21@gmail.com](mailto:omsubhrasingha21@gmail.com)
+* **GitHub**: [@omsusi](https://github.com/omsusi)
 
 ---
